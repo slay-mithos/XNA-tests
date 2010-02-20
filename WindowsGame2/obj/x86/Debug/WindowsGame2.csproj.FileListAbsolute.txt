@@ -1,0 +1,9 @@
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\bin\x86\Debug\Content\Witch.xnb
+C:\Users\Felix\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame2\bin\x86\Debug\Content\sword.xnb

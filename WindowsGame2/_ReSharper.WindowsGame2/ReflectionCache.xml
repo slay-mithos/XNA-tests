@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="Microsoft.Xna.Framework, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="aa91a6c4-ee99-43f7-800e-deee5f74f6d7" Timestamp="633790629820000000" XmlDocIndexTimestamp="633790608040000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Game, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="4b53c90a-5ebf-4f39-b4b4-4921b33d22dd" Timestamp="633790629740000000" XmlDocIndexTimestamp="633790608040000000" />
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="c3b90844-ac8e-406c-b50b-2f8d56d32103" Timestamp="633802652813154876" XmlDocIndexTimestamp="633265035640000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="01061f8e-7872-48f5-b886-d0b9717b4538" Timestamp="633802652854494876" XmlDocIndexTimestamp="633258133180000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.EffectImporter, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="ab0a4828-0e51-4261-b247-9bff4e8e1825" Timestamp="633790629720000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.FbxImporter, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="ed52b7f2-5a4e-4f31-b5b6-89c4d8166374" Timestamp="633790629860000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.TextureImporter, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="110baeac-7186-49fd-a708-493e1e4298e4" Timestamp="633790629760000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.XImporter, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="86af5580-ca56-4a42-9b39-54efb938cdeb" Timestamp="633790629740000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.AudioImporters, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="479f0474-8304-4fcd-973d-6a776657e8c8" Timestamp="633790629660000000" />
+  <Assembly Name="Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d" Image="329de2d0-4aac-4981-944b-fd0ae1239952" Timestamp="633790629660000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="6d7cf30f-2798-49b1-8c0f-2e03a5412b95" Timestamp="633559706920000000" XmlDocIndexTimestamp="633559706920000000" />
+</Assemblies>
